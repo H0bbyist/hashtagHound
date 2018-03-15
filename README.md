@@ -4,7 +4,7 @@
 It then places them into a dictionary and lists the number of times that hashtag appeared in the document.
 
   The idea came when twitter released a .csv with 200,000 russian bot tweets for analysis.
-I was curious to see which tags were the most affected and decided to put python to work.
+I was curious to see which tags were the most effected and decided to put python to work.
 
   There is a testFile.txt in the repository for you to use for testing. This file is a very small sample of the twitter .csv file.
 If you would like to run it on the original file, you can find it here: https://www.nbcnews.com/tech/social-media/now-available-more-200-000-deleted-russian-troll-tweets-n844731.
